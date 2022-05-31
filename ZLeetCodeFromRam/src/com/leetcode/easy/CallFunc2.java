@@ -45,8 +45,6 @@ public class CallFunc2 {
 			//System.out.println(val1);
 			i++;
 		}
-		
-		
 		return maxSum;
 	}
 	
